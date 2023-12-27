@@ -6,6 +6,7 @@ scikit-learn
 matplotlib
 python-box==6.0.2
 pyYAML
+yaml
 tydm
 ensure==1.0.2
 joblib
